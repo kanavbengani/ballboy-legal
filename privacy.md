@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Ballboy Privacy Policy
 
-**Last updated:** April 25, 2026
+**Last updated:** August 18, 2026
 
 This Privacy Policy describes how Ballboy ("we," "us," or "our") collects, uses, and shares information when you use the Ballboy mobile application (the "App"). By using the App, you agree to the collection and use of information in accordance with this policy.
 
@@ -57,7 +57,7 @@ We share information only as described below:
 
 We retain your account information for as long as your account is active.
 
-You can delete your account at any time directly from within the App: **Profile → Delete Account**. When you delete your account, we permanently remove your profile information, push tokens, and authentication record. League and chat content you previously generated may be retained in anonymized form for league integrity (so historical leagues remain consistent for other participants), but will no longer be associated with your identity.
+You can delete your account at any time directly from within the App: **Profile → Delete Account**. If you no longer have the App installed or cannot sign in, you can request deletion by email — see [Delete Your Account](./delete-account) for both routes and for exactly what is removed. When you delete your account, we permanently remove your profile information, your teams, trades, picks, chat messages, push tokens, and authentication record. Leagues you created are deleted along with the account; leagues you only joined continue for their other members without you. Feedback you submitted to us is kept with your identity removed.
 
 You can also withdraw consent for any optional data collection (e.g., push notifications) at any time from the Profile screen.
 
